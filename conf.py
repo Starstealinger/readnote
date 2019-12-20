@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'readnote'
-copyright = '2019, Star_Stealinger'
-author = 'Star_Stealinger'
+copyright = '2019, Star'
+author = 'Star'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
@@ -46,7 +46,7 @@ language = 'zh_CN'
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
