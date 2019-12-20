@@ -3,16 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Knowledge
+计算机技术
 ====================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: 目录:
+   :maxdepth: 2
    :glob:
    :titlesonly:
    
-   booknote/index
-   computer/index
+   */index
    
    
