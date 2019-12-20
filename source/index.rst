@@ -12,7 +12,7 @@ Welcome to booknote's documentation!
    :glob:
    :titlesonly:
    
-   economic/index
+   *
    
    
 
