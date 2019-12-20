@@ -20,6 +20,7 @@
 project = 'readnote'
 copyright = '2019, Star'
 author = 'Star'
+master_doc = 'index'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
